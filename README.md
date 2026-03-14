@@ -127,11 +127,5 @@ Document fields:
 - `age`: number
 - `createdAt`: timestamp
 
-## Submission checklist
 
-For the PDF submission include:
-
-1. App screenshots: create, read, update, delete screens
-2. Firebase Console screenshot showing the `students` collection and documents
-3. Plymouth OneDrive share link to the source code on the first page
 
